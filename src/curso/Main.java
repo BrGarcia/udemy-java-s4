@@ -13,7 +13,9 @@ public class Main {
         c.raio = 5.6;
         System.out.println(c.circunferencia());
         System.out.println(c.area());
+        System.out.println("Teste");
         sc.close();
+
 
     }
 }
